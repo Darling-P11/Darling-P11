@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Mobile Developer | Founder of Orbix Labs 🪐</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Darling-P11&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -12,8 +12,8 @@
 - 🚀 Full Stack Mobile Developer  
 - 🪐 Founder & Developer at **Orbix Labs**
 - 📱 Mobile, Web & Backend Development
-- ⚙️ Focused on scalable and real-world solutions
-- 🌱 Always learning and building
+- ⚙️ Focused on scalable, real-world solutions
+- 🌱 Constantly learning and building products
 
 ---
 
@@ -28,8 +28,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Darling-P11&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darling-P11&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -37,18 +37,26 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darling-P11&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects (Orbix Labs)
+### 🚀 Featured Projects — Orbix Labs
 
-- 📱 **MuroBird** – Mobile app for bird recognition  
-- 🧠 **Orbix AI Tools** – AI-powered educational solutions  
-- 🧪 **Orbix Web Systems** – Full stack platforms  
+- 🚕 **Con1Taxi**  
+  Mobile platform for taxi request and real-time ride management.
 
-👉 *More projects under development at Orbix Labs*
+- 🐦 **OrBird AI**  
+  AI-powered bird recognition app using audio and intelligent analysis.
+
+- 🌱 **Imagro**  
+  Digital solution focused on agricultural management and data tracking.
+
+- 🚌 **OrBus Quevedo**  
+  Urban transport system for route visualization and public bus information.
+
+👉 *All projects are developed and maintained under **Orbix Labs***.
 
 ---
 
@@ -66,5 +74,6 @@
 ---
 
 <p align="center">
-  <i>"Building technology that makes an impact — Orbix Labs"</i>
+  <i>"Building real-world technology through innovation — Orbix Labs"</i>
 </p>
+
