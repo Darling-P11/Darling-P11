@@ -50,14 +50,6 @@
 ---
 
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Darling-P11"/>
-</p>
-
-
----
-
 ### 🚀 Featured Projects — Orbix Labs
 
 - 🚕 **Con1Taxi**  
