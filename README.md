@@ -2,6 +2,12 @@
 <h3 align="center">Full Stack Mobile Developer | Founder of Orbix Labs 🪐</h3>
 
 <p align="center">
+  <a href="https://orbixec.web.app/" target="_blank">
+    🌐 orbixec.web.app
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Darling-P11&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
@@ -45,7 +51,7 @@
 ### 🚀 Featured Projects — Orbix Labs
 
 - 🚕 **Con1Taxi**  
-  Mobile platform for taxi request and real-time ride management.
+  Mobile platform for taxi requests and real-time ride management.
 
 - 🐦 **OrBird AI**  
   AI-powered bird recognition app using audio and intelligent analysis.
@@ -60,14 +66,36 @@
 
 ---
 
+### 🪐 Orbix Labs — Social Media
+
+<p align="center">
+  <a href="https://www.facebook.com/OrbixEC">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+  </a>
+  <a href="https://www.instagram.com/orbixec/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="https://www.tiktok.com/@orbixec">
+    <img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok"/>
+  </a>
+</p>
+
+---
+
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://linkedin.com/in/TU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/darling27/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/darling.p27/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="https://www.tiktok.com/@darling.p11">
+    <img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok"/>
+  </a>
+  <a href="https://www.facebook.com/kevin.poncerivera">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
   </a>
 </p>
 
